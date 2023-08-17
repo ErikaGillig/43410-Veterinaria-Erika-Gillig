@@ -1,0 +1,10 @@
+Guía de pasos para la Implementacion de la base de datos:
+
+01-Creacion-de-tablas-erika-gillig.sql
+02-creacion-de-triggers-erika-gillig.sql
+03-creacion-de-inserts-erika-gillig.sql
+04-creacion-de-vistas-erika-gillig.sql
+05-creacion-de-funciones-erika-gillig.sql
+06-creacion-de-stores-procedures-erika-gillig.sql
+07-creacion-de-datos-de-control-erika-gillig.sql
+08-creacion-de-tcl-erika-gillig.sql
